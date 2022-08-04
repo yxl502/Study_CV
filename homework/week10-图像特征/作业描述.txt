@@ -1,0 +1,4 @@
+提取LBPH特征实现人脸识别
+yalefaces数据下载
+链接: https://pan.baidu.com/s/1GNXZ86c2q-_LCDCq6GfN-A 提取码: ckga
+
