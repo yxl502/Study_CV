@@ -1,0 +1,12 @@
+使用多种变换方法实现图像数据增强
+
+数据增强中常用的方法有：
+镜像（flip）、
+旋转（rotation）、
+缩放（scale）、
+裁剪（crop）、
+平移（translation）、
+高斯噪声（gaussion noise）、
+图像亮度、
+饱和度、
+对比度变化
